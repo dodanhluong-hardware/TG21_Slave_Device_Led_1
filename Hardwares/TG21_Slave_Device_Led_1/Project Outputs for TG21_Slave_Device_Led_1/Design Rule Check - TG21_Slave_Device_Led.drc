@@ -1,10 +1,11 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\DELL\Documents\GitHub\Altium-cp1\TG21_Slave_Device_Led_1\Hardwares\TG21_Slave_Device_Led_1\TG21_Slave_Device_Led.PcbDoc
-Date     : 5/12/2026
-Time     : 1:51:42 PM
+Date     : 5/13/2026
+Time     : 2:27:28 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (8.158mil < 10mil) Between Region (0 hole(s)) Top Layer And Via (1142mil,1137.001mil) from Top Layer to Bottom Layer 
+Rule Violations :1
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -58,6 +59,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500m
 Rule Violations :0
 
 
-Violations Detected : 6
+Violations Detected : 7
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
