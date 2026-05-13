@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TG21_Slave_Device_Led_1.PrjPcb]
+   Generated File[TG21_Slave_Device_Led-RoundHoles.TXT]
+   Generated File[TG21_Slave_Device_Led-SlotHoles.TXT]
+   Generated File[TG21_Slave_Device_Led.LDP]
+   Generated File[TG21_Slave_Device_Led.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:09:01 AM On 5/13/2026

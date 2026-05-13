@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\DELL\Documents\GitHub\Altium-cp1\TG21_Slave_Device_Led_1\Hardwares\TG21_Slave_Device_Led_1\TG21_Slave_Device_Led.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tg21_slave_device_led-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tg21_slave_device_led-slotholes.txt|DrillLayers=gtl,gbl
