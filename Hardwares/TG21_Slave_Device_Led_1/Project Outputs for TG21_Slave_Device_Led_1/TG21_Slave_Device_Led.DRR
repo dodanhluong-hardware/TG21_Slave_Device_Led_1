@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: TG21_Slave_Device_Led.PcbDoc   5/13/2026  8:09:01 AM
+NCDrill File Report For: TG21_Slave_Device_Led.PcbDoc   5/13/2026  2:41:13 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,12 +8,12 @@ ASCII SlotHoles File : TG21_Slave_Device_Led-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             518       PTH        1652.97mm (65.08inch)
+T1      0.3mm (12mil)                                             Round             520       PTH        1675.91mm (65.98inch)
 T2      0.6mm (24mil)                                             Slot              8         PTH        138.49mm (5.45inch)
 T3      0.7mm (28mil)                                             Round             16        PTH        117.79mm (4.64inch)
 T4      0.8mm (31mil)                                             Round             10        PTH        42.78mm (1.68inch)
 T5      2.9mm (114mil)                                            Round             8         PTH        58.20mm (2.29inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              560
+Totals                                                                              562
 
 Total Processing Time (hh:mm:ss) : 00:00:00
